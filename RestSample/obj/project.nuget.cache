@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CSjUddBzMQp6VJU87q/twf57QpebZde2szzxJItclWRc3j0vo5BwTnP43UNjx1LC7HnVOXrfb4wM0BUajmAz8g==",
+  "success": true,
+  "projectFilePath": "/Users/ekaphop/Documents/restapi/RestSample/RestSample.csproj",
+  "expectedPackageFiles": [
+    "/Users/ekaphop/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/ekaphop/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/ekaphop/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/ekaphop/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/ekaphop/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/ekaphop/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
